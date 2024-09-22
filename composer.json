@@ -1,0 +1,17 @@
+{
+    "name": "web/event",
+    "authors": [
+        {
+            "name": "Eliess",
+            "email": "kreir02@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Event\\": "src/"
+        }
+    },
+    "require-dev": {
+        "kahlan/kahlan": "^5.2"
+    }
+}
